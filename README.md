@@ -8,7 +8,9 @@ Actualmente curso un programa de becario en Xertica orientado al desarrollo de s
 
 Soy una persona en constante aprendizaje, con el sentido de la organización, solucionador de problemas y excelente trabajador colaborativo. Disfruto el deporte, series de televisión, literatura y actividades grupales.
 
-##### Mis Redes: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erick-oswaldo-gp) [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/erickgp)
+##### Mis Redes: 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-oswaldo-gp) 
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/erickgp)
 
 ##### Mi Curriculum:
 
