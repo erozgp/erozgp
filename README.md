@@ -1,12 +1,20 @@
 # Hola, me llamo Erick Oswaldo Gallegos Pérez. 👋
 ### Salesforce Developer Jr. 
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/mx/)
+
 
 Egresado de Ingeniería en Computación de la Universidad del Istmo. Apasionado por la tecnología y el desarrollo de soluciones, siempre en pro de mitigar necesidades en la sociedad actual y futura.
 
 Actualmente curso un programa de becario en Xertica orientado al desarrollo de soluciones con Salesforce.
 
 Soy una persona en constante aprendizaje, con el sentido de la organización, solucionador de problemas y excelente trabajador colaborativo. Disfruto el deporte, series de televisión, literatura y actividades grupales.
+
+##### Mis Redes: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erick-oswaldo-gp) [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/erickgp)
+
+##### Mi Curriculum:
+
+<a href="https://drive.google.com/file/d/1eSIuGPmMjLogcNdRU0LkOshGtsTQVDky/view?usp=sharing">
+    <img src="https://cdn-icons-png.flaticon.com/512/3589/3589055.png" width="80" height="80" />
+</a>
 
 ## Skills:
 ### Sistemas operativos:
