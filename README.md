@@ -150,5 +150,8 @@ Soy una persona en constante aprendizaje, con el sentido de la organización, so
 
 [Recorrido virtual web 360° Ingeniería en computación, UNISTMO campus Tehuantepec](https://app.lapentor.com/sphere/unistmo-ciees "@embed")
 
+## Usos:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erozgp&&locale=es&theme=radical&card_width=450em)](https://github.com/erozgp/erozgp/github-readme-stats"/>
+
 
 [![Elaborado con amor](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
